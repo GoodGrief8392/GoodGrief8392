@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Products, Startups and Stories.
 - 🌱 I’m currently learning ... Web Development(CSS) and Product Management.
 - 💞️ I’m looking to collaborate on ... building products
-- 📫 How to reach me ... Twitter @sahilthesail
+- 📫 How to reach me ... Twitter @Sahilthesail
 
 <!---
 GoodGrief8392/GoodGrief8392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
