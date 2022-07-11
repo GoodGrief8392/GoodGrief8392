@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil(@GoodGrief8392)
 - 👀 I’m interested in ... Products, Startups and Stories.
 - 🌱 I’m currently learning ... Web Development(CSS) and Product Management.
-- 💞️ I’m looking to collaborate on ... building products
+- 💞️ I’m looking to collaborate on ... product teardowns, UX case studies and consulting competitions
 - 📫 How to reach me ... Twitter @Sahilthesail
 
 <!---
